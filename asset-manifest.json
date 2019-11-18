@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/restaurant-order/static/css/main.fa4e0d41.chunk.css",
+    "main.js": "/restaurant-order/static/js/main.5a0ec8c1.chunk.js",
+    "main.js.map": "/restaurant-order/static/js/main.5a0ec8c1.chunk.js.map",
+    "runtime-main.js": "/restaurant-order/static/js/runtime-main.87f5c07b.js",
+    "runtime-main.js.map": "/restaurant-order/static/js/runtime-main.87f5c07b.js.map",
+    "static/css/2.0624914a.chunk.css": "/restaurant-order/static/css/2.0624914a.chunk.css",
+    "static/js/2.5078f07a.chunk.js": "/restaurant-order/static/js/2.5078f07a.chunk.js",
+    "static/js/2.5078f07a.chunk.js.map": "/restaurant-order/static/js/2.5078f07a.chunk.js.map",
+    "index.html": "/restaurant-order/index.html",
+    "precache-manifest.3a6cf9ba9e7837a64915937d7a01537a.js": "/restaurant-order/precache-manifest.3a6cf9ba9e7837a64915937d7a01537a.js",
+    "service-worker.js": "/restaurant-order/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/restaurant-order/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.fa4e0d41.chunk.css.map": "/restaurant-order/static/css/main.fa4e0d41.chunk.css.map"
+  }
+}
